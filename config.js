@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281236167286','6281236167286']
-global.ownernomer = "6281236167286"
-global.premium = ['6281236167286']
-global.packname = 'Sanzz'
-global.author = 'Fhldx17'
+global.owner = ['6281386945391','6281223618476','6283120240903']
+global.ownernomer = "6281386945391"
+global.premium = ['6281386945391']
+global.packname = 'Sticker By'
+global.author = 'Nai Developer'
 global.sessionName = 'Daffaaa XD'
 global.prefa = ['','!','.','#','&']
-global.namebotmu = '4U'
-global.tutorial = 'https://www.youtube.com/@4KSanzz'
+global.namebotmu = '𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲'
+global.tutorial = 'https://wa.me/6281386945391'
 global.sp = ''
 global.mess = {
     success: 'Done',
@@ -64,12 +64,12 @@ global.thumb = fs.readFileSync('./DidinMedia/didin.png')
 global.didinbc = fs.readFileSync('./DidinMedia/didinbc.png')
 global.rules = fs.readFileSync('./DidinMedia/rules.jpg')
 global.xc = fs.readFileSync('DidinMedia/didinxc.jpg')
-global.mygit = 'https://github.com/4ksanzz'
-global.myyt = 'https://www.youtube.com/@4KSanzz'
-global.myytv = 'https://www.youtube.com/@4KSanzz'
-global.botname = '4U'
-global.akulaku = 'sanzzy'
-global.ytname = '@4KSanzz'
+global.mygit = 'https://github.com/nizarrahman'
+global.myyt = 'https://www.nizarr.my.id'
+global.myytv = 'https://www.nizarrrahman.biz.id'
+global.botname = '𝗕𝗼𝘁 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹 𝗡𝗮𝗶 𝗦𝘁𝗼𝗿𝗲'
+global.akulaku = '-'
+global.ytname = '-'
 global.emot = {
 role: '🏆',
 level: '🎚️',
